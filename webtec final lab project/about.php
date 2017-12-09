@@ -5,6 +5,7 @@
 </head>
 <body>
 <font size="2" face="Consolas" >
+    <table align="center" border="1px" height="90%" width="90%">
 			<tr height="50px">
 				<td colspan="3">
 					<a href="PublicHome.php"><img valign="top" src="picture/HB2.jpg" height="50px" width="150px"></a>
